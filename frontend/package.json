@@ -1,0 +1,21 @@
+{
+  "name": "charging-station-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@fawmi/vue-google-maps": "^0.5.1",
+    "@react-google-maps/api": "^2.20.6",
+    "axios": "^1.6.0",
+    "leaflet": "^1.9.4",
+    "marker-clusterer-plus": "^2.1.4",
+    "vue": "^3.2.0",
+    "vue-router": "^4.1.6"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^5.0.0"
+  }
+}
